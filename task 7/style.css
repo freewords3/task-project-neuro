@@ -1,0 +1,27 @@
+#main_block {
+    margin: 0 auto;
+    padding-top: 25px;
+    text-align: center;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border-style: double;
+    width: 100px;
+    height: 100px;
+}
+
+#subcontainer {
+    margin-top: 100px;
+    width: 350px;
+    height: 350px;
+}
+
+.sub_block {
+    margin: 0 auto;
+    padding-top: 35px;
+    text-align: center;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border-style: double;
+    width: 100px;
+    height: 100px;
+}
